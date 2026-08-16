@@ -7,7 +7,7 @@
     // =========================================================================
     // 1. URL DEL SERVIDOR — Obtenida de CONFIG si está disponible
     // =========================================================================
-    window.leaderboardAPI = (window.CONFIG && window.CONFIG.API_URL) || "https://script.google.com/macros/s/AKfycbz8cmdc3tgjOfKxKMWMIQpPePJEdPWACMyirbO6gTgiiEgSM8OMs9UcdVx3TjZyfFbW7g/exec";
+    window.leaderboardAPI = (window.CONFIG && window.CONFIG.API_URL) || "https://script.google.com/macros/s/AKfycbwEEKS6HPkjP4eFD9Wkia-IjSlwz_Xg755Tq4uj_KyVaVyGpaSsi3eJXYdAFcUihl9ivg/exec";
 
     // =========================================================================
     // 2. CÓDIGOS PROMOCIONALES PREDETERMINADOS
